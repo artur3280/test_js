@@ -108,6 +108,8 @@ var get_Dom = function (param) {
     
     //// метод создания обьекта ///
     this.test=function(){};
+    this.test2 = function () {
+    };
      this. create_object_global=function (type/*type object*/, sun/*class/id*/, indetification/*name*/, position/*element position*/) {
             this. type=type;
             this. sun=sun;
